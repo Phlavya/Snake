@@ -518,6 +518,11 @@ Snake.start(8);
 
 Snake.setup.keyboard(true);
 
-Snake.setup.fixedTail(false);
+
+Snake.setup.fixedTail(false);   
+
+phlavya.github.io
+
+ echo "cobra" > index.html
 
 
