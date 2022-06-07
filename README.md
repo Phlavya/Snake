@@ -523,6 +523,8 @@ Snake.setup.fixedTail(false);
 
 phlavya.github.io
 
- echo "cobra" > index.html
+echo "cobra" > index.html
+  
+git remote add. origem phlavya>/ <cobra> .git
 
-
+git push remote origin
